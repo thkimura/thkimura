@@ -8,7 +8,7 @@
 
 <h1 align = center> ⛩ Youkoso!!! <br>Bem vindo ao meu Github! 🌎  </h1>
 
-<p>👋 Olá, me chamo Thalles, tenho 30 anos, sou um aspirante a desenvolvedor web 💻 , apaixonado por tecnologia 🤖 e em aprender coisas novas 💡 , um gamer de fps nato 🎮 e um guitarrista por hooby 🎸.<br></p>
+<p>👋 Olá, me chamo Thalles, tenho 33 anos, sou um aspirante a desenvolvedor web 💻 , apaixonado por tecnologia 🤖 e em aprender coisas novas 💡 , um gamer de fps nato 🎮 e um guitarrista por hooby 🎸.<br></p>
 
 ![thkimura GitHub stats](https://github-readme-stats.vercel.app/api?username=thkimura&show_icons=true&theme=tokyonight)
 
